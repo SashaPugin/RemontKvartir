@@ -1,0 +1,36 @@
+body{
+	background-color: #C5CD1B;
+}
+
+
+h1{
+	color: red;
+	font-size: 50px;
+	text-align: center;
+	text-shadow: 15px 13px 6px #000000;
+} 
+
+h2{
+	color: #1BCD4E;
+	font-size: 50px;
+	text-align: center;
+}
+	
+
+
+h3{
+	font-size: 30px;
+	
+}
+
+img{
+	margin: 15px;
+}
+.demontag{
+	border: 7px solid #1B2ECD;
+	margin: 50px;
+	margin-right: 190px;
+	margin-left: 190px;
+	padding: 20px;
+}
+
